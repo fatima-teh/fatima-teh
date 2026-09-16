@@ -1,155 +1,105 @@
+<!-- ===================== HEADER ===================== -->
+
 <div align="center">
 
-# 👋 Hi, I'm Fatima Tehreem
-
-### 🎓 BSCS Student | 💻 Web Development | 🎨 Graphic Designing
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=BSCS+Student+%F0%9F%8E%93;Web+Development+Learner+%F0%9F%92%BB;Graphic+Designer+%F0%9F%8E%A8;Social+Media+Marketing+%F0%9F%93%B1;SEO+Learner+%F0%9F%94%8D;Always+Learning+%26+Creating+%F0%9F%8C%B1" alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Fatima+Tehreem+%F0%9F%91%8B;BSCS+Student+%F0%9F%8E%93;Web+Development+Learner+%F0%9F%92%BB;Graphic+Designer+%F0%9F%8E%A8;Social+Media+Marketing+%F0%9F%93%B1;SEO+Learner+%F0%9F%94%8D;Always+Learning+%26+Creating+%E2%9C%A8" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-fatima--teh-181717?style=for-the-badge\&logo=github)](https://github.com/fatima-teh)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 </div>
 
 ---
 
-## 🌷 About Me
+## 🌸 About Me
 
-🎓 I'm a **BSCS student** interested in technology, creativity, and digital marketing.
+<img align="right" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-💻 I'm learning **Web Development** and building my skills through university work and practice.
+🎓 I'm a **BSCS student** who enjoys both technology and creativity.
 
-🎨 I enjoy **Graphic Designing**, especially social media posts, advertisement banners, and creative visual content.
+💻 Currently learning **Web Development**
 
-📱 I'm interested in **Social Media Marketing** and digital content.
+🎨 Creating **Graphic Designs & Social Media Creatives**
 
-🔍 I'm currently learning **SEO** and exploring how websites can improve their online visibility.
+📱 Interested in **Social Media Marketing**
 
-🌱 I'm always learning, experimenting, and improving my skills.
+🔍 Currently exploring **SEO**
 
----
+✨ I enjoy learning new skills and turning ideas into practical work.
 
-## 💻 What I'm Learning
+🌱 My goal is to keep improving, create better projects, and grow as a tech & creative professional.
 
-| 💻 Web Development | 🎨 Graphic Designing  |
-| :----------------- | :-------------------- |
-| HTML               | Social Media Posts    |
-| CSS                | Advertisement Banners |
-| JavaScript         | Promotional Designs   |
-| Git & GitHub       | Creative Visuals      |
-
-| 📱 Social Media Marketing | 🔍 SEO               |
-| :------------------------ | :------------------- |
-| Content Creation          | Keyword Research     |
-| Content Planning          | On-Page SEO          |
-| Digital Branding          | Website Optimization |
-| Social Media Content      | SEO Basics           |
+<br clear="right"/>
 
 ---
 
-## 🎨 My Graphic Design Work
+## 💫 What I'm Learning
 
-I enjoy creating creative and visually appealing content for social media and promotional purposes.
+<table>
+<tr>
 
-<div align="center">
+<td width="50%" align="center">
 
-### 🖌️ Graphic Design Portfolio
+### 💻 Web Development
 
-[![View Graphic Designing](https://img.shields.io/badge/🎨%20View%20My%20Graphic%20Designs-6C63FF?style=for-the-badge)](https://github.com/fatima-teh/Graphic-Designing)
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 
-</div>
+<br><br>
+
+`HTML` • `CSS` • `JavaScript`  
+`Git` • `GitHub`
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎨 Graphic Designing
+
+🖌️ Social Media Posts  
+📢 Advertisement Banners  
+✨ Promotional Designs  
+🎯 Branding & Visual Content
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 📱 Social Media Marketing
+
+📌 Content Creation  
+📅 Content Planning  
+📢 Promotional Content  
+💡 Digital Branding  
+👥 Audience Engagement
+
+</td>
+
+<td width="50%" align="center">
+
+### 🔍 SEO
+
+🔎 Keyword Research  
+📝 On-Page SEO  
+🔗 Link Building  
+📊 SEO Basics & Analytics  
+🌐 Website Optimization
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📚 My Semester Projects
-
-My academic projects and university work are collected here.
-
-<div align="center">
-
-[![View Semester Projects](https://img.shields.io/badge/📚%20View%20Semester%20Projects-00A896?style=for-the-badge)](https://github.com/fatima-teh/Semester-Projects)
-
-</div>
-
----
-
-## 🌱 Currently Learning
+## 🚀 My Learning Journey
 
 ```text
-💻 Web Development
-🎨 Graphic Designing
-📱 Social Media Marketing
-🔍 SEO
-🐙 Git & GitHub
-```
-
----
-
-## 🎯 My Goals
-
-* 💻 Improve my Web Development skills
-* 🎨 Grow as a Graphic Designer
-* 📱 Learn more about Social Media Marketing
-* 🔍 Build practical SEO knowledge
-* 🚀 Create more university and personal projects
-* 🌱 Keep learning and improving
-
----
-
-## 📂 My Work
-
-<div align="center">
-
-<a href="https://github.com/fatima-teh/Graphic-Designing">
-
-<img src="https://img.shields.io/badge/🎨%20GRAPHIC%20DESIGNING-6C63FF?style=for-the-badge">
-
-</a>
-
-  
-
-<a href="https://github.com/fatima-teh/Semester-Projects">
-
-<img src="https://img.shields.io/badge/📚%20SEMESTER%20PROJECTS-00A896?style=for-the-badge">
-
-</a>
-
-</div>
-
----
-
-## 💡 A Little More About Me
-
-<details>
-<summary>✨ Click to see more</summary>
-
-<br>
-
-🎓 **Education:** BSCS Student
-
-💻 **Interest:** Web Development
-
-🎨 **Creative Side:** Graphic Designing
-
-📱 **Marketing Interest:** Social Media Marketing
-
-🔍 **Currently Learning:** SEO
-
-🌱 **Mindset:** Learn • Practice • Improve
-
-</details>
-
----
-
-<div align="center">
-
-### 🌷 Learning today, creating tomorrow.
-
-**💻 Code • 🎨 Create • 📱 Connect • 🔍 Learn**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%">
-
-</div>
+Web Development       ███████░░░  Learning
+Graphic Designing     █████████░  Practicing
+Social Media Marketing ███████░░░  Exploring
+SEO                   ██████░░░░  Learning
